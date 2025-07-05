@@ -18,9 +18,9 @@ def get_friends_list(access_token: str):
 
 
 if __name__ == "__main__":
-    # 1단계에서 새로 발급받은 액세스 토큰을 여기에 붙여넣으세요.
+    # 2단계에서 새로 발급받은 액세스 토큰을 여기에 붙여넣으세요.
     my_new_access_token = (
-        "brT2p6PC4xjGUuBcS72eYmqKP3zvlhF1AAAAAQoXC2sAAAGX1eD8pMTTXs9KIG_V"
+        "your_token"
     )
 
     if "여기에" in my_new_access_token:
