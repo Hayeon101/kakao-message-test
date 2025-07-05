@@ -33,11 +33,11 @@ def send_message_to_friend(access_token: str, friend_uuid: str, message: str):
 if __name__ == "__main__":
     # 1단계에서 새로 발급받은 액세스 토큰
     my_new_access_token = (
-        "brT2p6PC4xjGUuBcS72eYmqKP3zvlhF1AAAAAQoXC2sAAAGX1eD8pMTTXs9KIG_V"
+        "your_token"
     )
 
     # 2단계에서 복사한 팀원의 UUID
-    friend_uuid_to_send = "HSkdJR0oGyMVOQg-DTgJMQQwCCQVJxAkFCIWXA"
+    friend_uuid_to_send = "friend_uuid"
 
     test_message = "팀원에게 보내는 메시지 테스트!"
 
